@@ -168,8 +168,8 @@ if __name__ == "__main__":
     annualContributions = st.sidebar.number_input("Average Annual Contribution: ", value=25000)
     fees = st.sidebar.number_input("Fees", step = 0.1, format="%0.3f", value=1.15)
     RevSplit = st.sidebar.number_input("Revenue Split (Take Home)", value=50, min_value=0, max_value=100)
-    Costs = float(st.sidebar.number_input("Costs Percentage (Take Home)", value=40, min_value=0, max_value=100))
-    OtherMiscCosts = st.sidebar.number_input("Costs Percentage (Take Home)", value=10000)
+    Costs = float(st.sidebar.number_input("Costs Percentage (Brokerage) ", value=40, min_value=0, max_value=100))
+    OtherMiscCosts = st.sidebar.number_input("Other Misc. Costs", value=10000)
     taxRate = st.sidebar.number_input("Tax Rate", value=25)
     averageReturns =  st.sidebar.number_input("Average Annual Return",value=8)
 

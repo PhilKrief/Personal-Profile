@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+
+* {font-family: 'Readex Pro';}
+
+
+a {
+    margin-bottom: 10px; /* You can adjust the value to control the space */
+    display: block; /* This ensures each anchor tag takes up the full width */
+}
+ 
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}

@@ -81,9 +81,9 @@ Dedicated Finance Professional and CFA Chartholder with 5+ years of experience. 
 """, unsafe_allow_html=True
 )
 
-# --- EXPERIENCE & QUALIFICATIONS ---
+# --- EXPERIENCE & QUALIFICATIONS --
 st.write('\n')
-st.subheader("Experience & Qualifications")
+st.subheader(" Experience & Qualifications ")
 st.write("---")
 st.write(
     """

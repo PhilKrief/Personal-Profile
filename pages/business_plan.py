@@ -94,7 +94,7 @@ def business_plan_app(business_plan_content, financialModel):
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
         }
-        .section h2 {
+        .section h2 
             color: #007bff;
         }
         .section p {

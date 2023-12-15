@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Philipe Elkrief"
 PAGE_ICON = ":barchart:"
 NAME = "Philipe Elkrief, CFA"
 DESCRIPTION = """
-Finance Professional and CFA Chartholder leveraging AI and automation to optimize wealth management operations and effeciently manage portfolios.
+Finance Professional and CFA Chartholder leveraging AI and automation to optimize wealth management operations and efficiently manage portfolios.
 """
 EMAIL = "philipeelkrief@gmail.com"
 #Linkedin ="https://linkedin.com"

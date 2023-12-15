@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Philipe Elkrief"
 PAGE_ICON = ":barchart:"
 NAME = "Philipe Elkrief, CFA"
 DESCRIPTION = """
-Finance Professional and CFA Chartholder leveraging AI and automation to optimize wealth management operations.
+Finance Professional and CFA Chartholder leveraging AI and automation to optimize wealth management operations and effeciently manage portfolios.
 """
 EMAIL = "philipeelkrief@gmail.com"
 #Linkedin ="https://linkedin.com"
@@ -77,13 +77,13 @@ st.subheader("Summary")
 st.write("---")
 st.markdown(
     """ 
-Dedicated Finance Professional and CFA Chartholder with 5+ years of experience. Expertise in automating financial processes and implementing AI solutions for wealth managers. Developed tools for stress testing, revenue recognition, dashboards, and monthly reporting. Skilled developer and financial expert bridging the gap between finance and technology.
+Dedicated Finance Professional and CFA Chartholder with 5+ years of experience. Expertise in automating financial processes and implementing AI solutions for wealth managers. Developed tools for portfolio analysis, benchmarking, stress testing, dashboards, and monthly reporting. Skilled developer and financial expert bridging the gap between finance and technology.
 """, unsafe_allow_html=True
 )
 
 # --- EXPERIENCE & QUALIFICATIONS --
 st.write('\n')
-st.subheader(" Experience & Qualifications ")
+st.subheader("Experience & Qualifications")
 st.write("---")
 st.write(
     """
@@ -104,6 +104,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas, LangChain, OpenAI) 
 - 📊 Data Visulization: Streamlit, PowerBI, MS Excel, Plotly
+- 📈 Finance: Portfolio Management, Financial Analysis, Financial Modeling, Financial Reporting
 - 📚 Modeling: Linear Regression, Logistic Regression, Decision Trees, Neural Network
 - 🗄️ Databases: Postgres, SQLlite, MongoDB
 """
@@ -141,7 +142,7 @@ st.write("🚧", "**Advisor - Business Development | Desjardins**")
 st.write("06/2022 - Present")
 st.write(
     """
-- Used PowerBI and SQL to redeﬁne and track private fund performance. Created comparative dashboard which allowed senior management to contrast private funds with internal and external public funds
+- Used PowerBI and SQL to redeﬁne and track private fund performance. Created comparative dashboard for benchmarking and portfolio analysis which allowed senior management to contrast private funds with internal and external public funds
 - Led multiple projects to develop automated tools to generate comprehensive monthly reports, enhancing transparency and reducing manual efforts. This allowed gave financial advisors material which they had not had access to before
 - Responsible for analyzing prospective clients' portfolios and conducting comparative assessments against internal portfolios to provide strategic investment recommendations.
 """
